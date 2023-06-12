@@ -26,6 +26,7 @@ nbclient.exceptions.CellExecutionError: An error occurred while executing the fo
 import pandas as pd
 import plotly.express as px
 import seaborn as sns
+
 ------------------
 
 [0;31m---------------------------------------------------------------------------[0m
